@@ -37,5 +37,3 @@ jobs:
           region: us-east-1
           version_label: ${{ github.sha }}
           deployment_package: deploy.zip
-# AKIA2BMJOXQKYZF7BT46
-# nwfxYbMX84cV7M6BehT03Bl3mc6Tqyxvv4lUPdO3
